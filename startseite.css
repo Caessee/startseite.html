@@ -1,0 +1,28 @@
+* {
+    background-color: rgb(243, 135, 169);
+}
+.border{
+    border: 2px solid black;
+}
+
+.gallery img {
+    transition: 1s;
+    padding: 15px; 
+    width: 100px;  
+}
+.gallery img:hover {
+    transform: scale(1.1);
+}
+.flexbox-item {
+    border:  2px solid black;
+    background-color: rgb(243, 135, 169);
+}
+
+
+
+
+p {
+    text-align:start;
+    font-size:25px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}

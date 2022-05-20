@@ -1,0 +1,35 @@
+* {
+    background-color: rgb(256, 135, 169);
+}
+
+*{
+    background-image: url(logo1.png); background-position: center 28px; background-repeat: no-repeat; background-size: 1100px; background-position-x: 350px; background-position-y: 250px;
+   
+}
+
+p {
+    font-family: 'Lato', sans-serif;
+    font-family: 'Monoton', cursive;
+    color: rgb(156, 8, 55);
+    font-size: 450%;
+    display: flex;
+    justify-content: center;
+}
+
+ul {
+    margin-left: 36%;
+    font-size: 300%;
+}
+
+a{
+    color: rgb(156, 8, 55);
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+
+
